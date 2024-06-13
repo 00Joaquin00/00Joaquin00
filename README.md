@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joakim! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Joakim! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>,<a href="https://www.youtube.com/c/joshmadakor">Tutor</a></h1>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
